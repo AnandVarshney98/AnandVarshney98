@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvarshney98&label=Profile%20views&color=0e75b6&style=flat" alt="anandvarshney98" /> </p>
 
-- 🌱 I’m currently learning **PHP, MySql**
+- 🌱 I’m currently learning **React js, Node js**
 
 - ⚡ Fun fact **I think I am funny😅**
 
