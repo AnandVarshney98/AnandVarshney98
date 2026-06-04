@@ -1,45 +1,128 @@
-![logo](https://github.com/AnandVarshney98/AnandVarshney98/blob/main/github%20banner.png)
+<img src="https://github.com/AnandVarshney98/AnandVarshney98/blob/main/github%20banner.png" alt="Banner"/>
+
 <h1 align="center">Hi 👋, I'm Anand Varshney</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend Developer | Web Designer | React.js Developer</h3>
 
-<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvarshney98&label=Profile%20views&color=0e75b6&style=flat" alt="anandvarshney98" /> </p>
-
-- 🌱 I’m currently learning **React js, Node js**
-
-- ⚡ Fun fact **I think I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anandvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandvarshney" height="30" width="40" /></a>
-<a href="https://instagram.com/varshney_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshney_anand" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anand_varshney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anand_varshney" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anandvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandvarshney" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anandvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandvarshney" height="30" width="40" /></a>
+<p align="center">
+Passionate Frontend Developer and Web Designer with 1 year of professional experience in building responsive, user-friendly, and visually appealing web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/AnandVarshney98">
+<img src="https://komarev.com/ghpvc/?username=anandvarshney98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandvarshney98&show_icons=true&locale=en&layout=compact" alt="anandvarshney98" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandvarshney98&show_icons=true&locale=en" alt="anandvarshney98" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandvarshney98&" alt="anandvarshney98" /></p>
-### Hi there 👋
+- 💼 1 Year Professional Experience as a Web Designer
+- 🌱 Currently enhancing my skills in **React.js, Node.js & Full Stack Development**
+- 🎨 Strong understanding of **UI/UX Design Principles**
+- 🚀 Passionate about creating responsive and user-friendly web applications
+- 📍 Agra, Uttar Pradesh, India
+- 📧 Reach me at: **anandvarshney274@gmail.com**
 
-<!--
-**AnandVarshney98/AnandVarshney98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### Web Designer | BCS Infallible Technology
+📅 May 2024 – May 2025
+
+- Designed responsive website layouts and landing pages.
+- Developed modern UI components with React.js.
+- Collaborated with developers to convert UI/UX designs into functional web applications.
+- Improved user experience through mobile-first design principles.
+- Worked with REST APIs and full-stack web development.
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ My Rasoi – Online Food Ordering Platform
+**React.js | Node.js | Express.js | MongoDB**
+
+- Full-stack food ordering application.
+- User authentication and order management.
+- Mobile-first responsive design.
+- REST API integration.
+
+### 🛒 E-Commerce Storefront
+**React.js | Bootstrap | JavaScript**
+
+- Responsive online shopping interface.
+- Product browsing and order management.
+- Modern UI/UX implementation.
+
+### 🧠 Python Quiz Application
+**Python**
+
+- Interactive quiz system with score tracking.
+- Real-time validation and feedback.
+
+---
+
+## 🏆 Achievements
+
+- ⭐ HackerRank – 3 Star
+- ⭐ CodeChef – 2 Star
+- 🏀 First Runner-up – Basketball
+- 🏃 Second Runner-up – Kho-Kho
+- 🎯 Coordinator – Farewell 2024, Quiz Competition & Fresher's Program
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anandvarshney">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:anandvarshney274@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/AnandVarshney98">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnandVarshney98&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVarshney98&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVarshney98&layout=compact&theme=tokyonight" />
+</p>
