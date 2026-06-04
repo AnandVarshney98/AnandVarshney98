@@ -21,7 +21,7 @@ Passionate Frontend Developer and Web Designer with 1 year of professional exper
 - 🌱 Currently enhancing my skills in **React.js, Node.js & Full Stack Development**
 - 🎨 Strong understanding of **UI/UX Design Principles**
 - 🚀 Passionate about creating responsive and user-friendly web applications
-- 📍 Agra, Uttar Pradesh, India
+- 📍 Noida, Uttar Pradesh
 - 📧 Reach me at: **anandvarshney274@gmail.com**
 
 ---
